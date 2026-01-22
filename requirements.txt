@@ -8,4 +8,5 @@ tensorflow >= 2.18.0; sys_platform != 'darwin' or platform_machine != 'x86_64'
 tqdm >= 4.66.1            
 numpy >= 1.26             
 pandas >= 2.2.1           
-psutil >= 5.9.5           
+psutil >= 5.9.5
+graphviz >= 0.20.1           
